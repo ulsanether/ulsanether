@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=ulsanether&theme=dark&hide_border=true&border_radius=4.5&locale=ko&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://github.com/ulsanether)
